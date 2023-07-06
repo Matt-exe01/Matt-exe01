@@ -1,6 +1,8 @@
-<p align="center">
+<!--<p align="center">
   <img src="./readme_logo.png" width="300">
-</p>
+</p>-->
+
+## Hi there, I am Matteo!
 
 <hr>
 
