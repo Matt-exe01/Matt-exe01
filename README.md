@@ -1,10 +1,12 @@
-<!--<p align="center">
-  <img src="./readme_logo.png" width="300">
-</p>-->
-
 ## Hi there, I am Matteo!
 
 <hr>
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_ita.md"><img src="images/ita-flag.png" height="13"> Italiano</a></td></tr>
+</table>
+
 
 ## About me
 
@@ -42,18 +44,3 @@
   ![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 </details>
-
-<!--
-**Matt-exe01/Matt-exe01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
