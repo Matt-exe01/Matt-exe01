@@ -8,7 +8,7 @@
 </table>
 
 
-## About me
+### About me
 
 * Currently a student at the university of Trento (Italy)
 * Passionate about innovation and programming
